@@ -1,2 +1,2 @@
 # hyperspectral-data-for-visualzation
-The data are accquired from then internet
+The data are accquired from the internet
